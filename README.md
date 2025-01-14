@@ -4,7 +4,7 @@ In this quiz system the JSON is used to retrieve questions , each with its corre
 It asks then evaluates .
 
 Original code : 
-- <https://chatgpt.com/c/6786caf8-55a8-800a-9fef-c0a22bef9bdc> .
+- <https://chatgpt.com/share/6786e15c-e070-800a-8d95-294b54048ac7> .
 
 I published a working and usable copy at :
 - <https://arkenidar.com/apps/php-json/>
