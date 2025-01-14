@@ -1,0 +1,29 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "Paris",
+            "London",
+            "Rome"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "Result of 2 + 2?",
+        "options": [
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Who wrote 'Hamlet'?",
+        "options": [
+            "Shakespeare",
+            "Hemingway",
+            "Tolkien"
+        ],
+        "answer": "Shakespeare"
+    }
+]

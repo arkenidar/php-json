@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch PHP Server",
+            "type": "php",
+            "request": "launch",
+            "program": "${workspaceFolder}/index.php",
+            "runtimeExecutable": "php",
+            "runtimeArgs": [
+                "-S",
+                "localhost:8000"
+            ],
+            "port": 8000,
+            "pathMappings": {
+                "/": "${workspaceFolder}"
+            },
+            "preLaunchTask": "Run PHP Server"
+        }
+    ]
+}
